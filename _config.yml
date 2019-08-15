@@ -1,6 +1,6 @@
 full_rebuild: true
 name: BatchIntelligence
-version: TBD
+version: 2019.1
 encoding: utf-8
 defaults:
   -
