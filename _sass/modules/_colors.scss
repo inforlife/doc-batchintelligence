@@ -6,5 +6,6 @@ $mediumgray: #C7C6C5;
 $lightgray: #e3e3e3;
 
 $gray: #5e5e5e;
-$orange: #d74a03;
-$darkorange: darken($orange, 20%);
+$main: #1f3a93;
+$darkmain: darken($main, 20%);
+$lightmain: lighten($main, 20%);
