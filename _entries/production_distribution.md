@@ -6,7 +6,7 @@ title: Distribuzione
 number: 5200
 parent_id: production
 ---
-Per visualizzare i dati di produzione
+Per visualizzare la distribuzione dei dati di produzione
 
 1. Definire la finestra temporale desiderata utilizzando il formato GG/MM/AAAA HH:MM - GG/MM/AAAA HH:MM. Il valore predefinito è le ultime ventiquattro ore.
 2. Selezionare la stazione per la quale si desidera visualizzare i dati. Il valore predefinito è entrambe le stazioni.

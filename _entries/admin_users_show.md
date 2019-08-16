@@ -9,7 +9,7 @@ Nella pagina relativa ai dettagli di un utente è possibile
 
 1. Consultarne il profilo.
 2. Modificare il profilo.
-3. Archiviare l'utente.
+3. Archiviare (o riattivare) l'utente.
 4. Iniziare il processo di aggiornamento della password.
 5. Consultare le modifiche effettuate al record. Per ogni modifica sono indicati
   1. Autore.
