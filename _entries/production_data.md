@@ -17,7 +17,7 @@ Per visualizzare i dati di produzione
 
 Nella colonna di destra, appariranno i dati selezionati con relativa analisi statistica.
 
-_Nota: Nel caso si siano selezionati più parametri, l'analisi statistica si riferisce all'ultima serie, dove per ultima serie si intende, il parametro visuliazzato nella legenda nella posizione più a destra._
+_Nota: Nel caso si siano selezionati più parametri, l'analisi statistica si riferisce all'ultima serie, dove per ultima serie si intende, il parametro visualizzato nella legenda nella posizione più a destra._
 
 Se si desidera esportare il grafico dei dati in un file PDF, premere "Crea PDF" che appare di fianco a "Visualizza".
 Appena il file PDF è generato, l'utente riceve un messaggio di posta elettronica contenente il link per scaricare il file.
